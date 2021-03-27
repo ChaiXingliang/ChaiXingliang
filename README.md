@@ -10,7 +10,7 @@
 
 
 
-![img](C:\MyGitHub\ChaiXingliang\image\img.jpg)
+![img](https://github.com/ChaiXingliang/Chaixingliang/raw/master/image/img.jpg)
 
 
 
