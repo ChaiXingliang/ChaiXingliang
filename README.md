@@ -1,4 +1,18 @@
-### Hi there 👋
+### #Hello，world！
+
+## ##About Me
+
+​    My name is ChaiXingliang. My interest is image processing and Jave Web, Now I am a totally novice of Java Web, I will record my learning process on GitHub.  Besides, I will share some reading note of papers, maybe I will reproduce them.
+
+
+
+​	My goal is 3k star!!! Come on!!!
+
+
+
+![img](C:\MyGitHub\ChaiXingliang\image\img.jpg)
+
+
 
 <!--
 **ChaiXingliang/ChaiXingliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
