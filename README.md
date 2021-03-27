@@ -10,7 +10,7 @@
 
 
 
-![img](https://github.com/ChaiXingliang/ChaiXingliang/raw/tree/main/image/img.jpg)
+![img](https://github.com/ChaiXingliang/ChaiXingliang/raw/origin/main/image/img.jpg)
 
 
 
