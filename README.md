@@ -10,9 +10,6 @@
 
 
 
-![img](https://github.com/ChaiXingliang/ChaiXingliang/blob/main/image/img.jpg)
-
-
 
 <!--
 **ChaiXingliang/ChaiXingliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
